@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "apps": [],
+  "libs": [],
+  "name": "F1317-pre-demo",
+  "devDependencies": {
+    "lerna": "^3.20.1"
+  }
+}
