@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/zjhou/demo-repo-F1317/issues"
+  },
+  "dependencies": {
+    "@ones-ai/demo-lib-01": "0.0.2"
   }
 }
