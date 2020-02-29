@@ -1,6 +1,6 @@
 {
   "name": "@ones-ai/demo-app-01",
-  "version": "2.0.2-dep-test.12+038ae8f",
+  "version": "2.0.3-dep-test.14+9af8571",
   "description": "> TODO: description",
   "author": "ZjHOU <z@zjh.im>",
   "homepage": "https://github.com/zjhou/demo-repo-F1317#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/zjhou/demo-repo-F1317/issues"
   },
   "dependencies": {
-    "@ones-ai/demo-lib-01": "0.0.2"
+    "@ones-ai/demo-lib-01": "0.0.3-dep-test.14+9af8571"
   }
 }
